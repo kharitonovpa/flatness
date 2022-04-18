@@ -1,0 +1,7 @@
+.vercel
+
+# Dependency directories
+node_modules/
+
+# IDE / Editor
+.idea
